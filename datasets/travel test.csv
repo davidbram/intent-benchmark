@@ -1,0 +1,59 @@
+utterance,expected intent,"difficulty (1 = easy, 3 = hard)"
+go to singapore,gotoPlace,1
+I want to travel to budapest,gotoPlace,1
+book me two flight tickets to JFK,gotoPlace,2
+cheap flights to South Korea,gotoPlace,1
+Book me a first class ticket from Mumbai to Dubai for next Monday.,gotoPlace,1
+how do i reach Vietnam?,gotoPlace,3
+cheapest flight from Bangalore to Kolkata ,gotoPlace,1
+is there a ticket for Hyderabad on Monday?,gotoPlace,1
+good hotels in mumbai? ,placeAccommodation,1
+hotel bookings for Mumbai next month,placeAccommodation,2
+can you book me a hotel room for two people?,placeAccommodation,1
+suggest me some cheap accommodations in ho chi minh city ,placeAccommodation,1
+reserve a basic room for four people in Bucharest,placeAccommodation,1
+suggest me a good hotel with a beautiful view in Daman,placeAccommodation,2
+suggest some hotels in the prime location of Kuala Lumpur ,placeAccommodation,2
+tell me some interesting places in miami,placeExplore,2
+I am bored. What can I do for two hours? ,placeExplore,3
+what can I do with my son in London?,placeExplore,2
+tell me what to do in Japan,placeExplore,1
+exploring in singapore,placeExplore,1
+must visit places Portland,placeExplore,2
+What Can I eat in Brazil?,placeExplore,2
+I want to explore Canada,placeExplore,1
+places i should visit in Batam Islands,placeExplore,1
+historic places in Bhutan,placeExplore,2
+best shopping places in Delhi,placeExplore,2
+good indian restaurant around the Delhi airport,placeExplore,2
+show me chinese restaurants,placeExplore,2
+i'm looking for a place to eat,placeExplore,2
+things to do in Philippines ,placeExplore,1
+water spots in Thailand,placeExplore,2
+show me a mexican place in Bangalore,placeExplore,2
+best weekend destinations around me,placeExplore,2
+I want to go for an outing. Suggest me some restaurants,placeExplore,2
+suggest me cafes in Mumbai where i can sit and read,placeExplore,2
+suggest me places where i can go for solo ride on my bike,placeExplore,2
+the great pyramids in Egypt,placeExplore,2
+I like trekking and adventure sports. Suggest me a place in Kashmir. ,placeExplore,2
+how expensive is Singapore?,placeInformation,3
+tell me something interesting about Japan,placeInformation,2
+New Zealand history,placeInformation,1
+what is the climate in singapore like?,placeInformation,1
+is it humid in Tamil Nadu?,placeInformation,2
+does it get very hot in Western Australia?,placeInformation,2
+economy of Cuba,placeInformation,2
+most appropriate time to visit Kerela,placeInformation,2
+which month of the year is most suitable to explore Sikkim,placeInformation,3
+most prominent culture of Singapore,placeInformation,3
+do you think it is safe to travel at night in Kolkata?,placeInformation,2
+how safe is it to travel in Paris alone?,placeInformation,2
+weather report for the next two days in Bangalore,placeInformation,2
+bus service in LA,placeLogistics,1
+india visa,placeLogistics,1
+visa requirements Cambodia,placeLogistics,1
+does Chicago have good public transport?,placeLogistics,2
+does Delhi have a metro service?,placeLogistics,2
+should i take a bus or a cab to go to Universal studios?,placeLogistics,3
+what is the closest metro station near me? ,placeLogistics,2

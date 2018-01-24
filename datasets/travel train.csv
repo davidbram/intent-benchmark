@@ -1,0 +1,58 @@
+text,intent
+how do I get to jordan,gotoPlace
+flight Mumbai,gotoPlace
+i am in india. I want to go to jordan.,gotoPlace
+book tickets from bangalore to jordan for two people,gotoPlace
+Jordan flight tickets,gotoPlace
+book first class ticket to Jordan for tomorrow,gotoPlace
+book me a flight from JFK to LAX tomorrow morning in economy,gotoPlace
+flight reservation from Seattle to Honolulu in the month of June,gotoPlace
+"reserve a flight to Seoul for 2 kids, 3 adults",gotoPlace
+book a flight for next month,gotoPlace
+can you get me an airplane ticket,gotoPlace
+book flight from Moscow to Paris for less than 200 euro no more than 1 stop,gotoPlace
+Please book me cheap air tickets from bangalore to mumbai,gotoPlace
+travel to Tokyo,gotoPlace
+accommodation in Los Angeles,placeAccommodation
+suggest me some good hotels in Kolkata,placeAccommodation
+suggest some inexpensive hotels in Bangalore,placeAccommodation
+find a hotel in Sydney,placeAccommodation
+tell me a good hotel under $50 per night in New Delhi,placeAccommodation
+book a room for 2 people please,placeAccommodation
+"5-star hotel Dallas, Texas",placeAccommodation
+book hotel for 2 adult and 1 child in Antigua,placeAccommodation
+reserve a room for two in Budapest,placeAccommodation
+best places in Hawaii,placeExplore
+explore Malaysia,placeExplore
+shopping in singapore,placeExplore
+what can i do in Croatia?,placeExplore
+suggest me places in jakarta,placeExplore
+fun stuff to do in Hong Kong,placeExplore
+tourist places sydney,placeExplore
+i am looking for an indian spot in Manchester,placeExplore
+I am looking for mexican food,placeExplore
+climate in Bali,placeInformation
+tell me about Kyoto,placeInformation
+how is Finland? ,placeInformation
+tell me about the history of South Korea,placeInformation
+interesting facts about Sao Paulo,placeInformation
+India history,placeInformation
+economy of Kerela,placeInformation
+culture of singapore,placeInformation
+How are the people in Korea? ,placeInformation
+does it rain a lot in Shanghai?,placeInformation
+Iceland weather,placeInformation
+paris safety,placeInformation
+Tell me about China's culture,placeInformation
+best time of the year to visit Pondicherry,placeInformation
+Give me some information about singapore,placeInformation
+what is the procedure to get a visa for France,placeLogistics
+does Moscow have good public transport? ,placeLogistics
+getting around in Kashmir,placeLogistics
+Bus routes singapore,placeLogistics
+subway in New York,placeLogistics
+currency of USA,placeLogistics
+Moscow airport,placeLogistics
+how is the airport in Delhi?,placeLogistics
+China exchange rate,placeLogistics
+how do I get a visa for UK?,placeLogistics
