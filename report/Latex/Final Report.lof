@@ -1,0 +1,19 @@
+\contentsline {figure}{\numberline {1}{\ignorespaces Continuous bag-of-words Architecture for word2vec\relax }}{4}
+\contentsline {figure}{\numberline {2}{\ignorespaces Skip-gram Architecture for word2vec\relax }}{5}
+\contentsline {figure}{\numberline {3}{\ignorespaces Convolutional Neural Network for Text\relax }}{6}
+\contentsline {figure}{\numberline {4}{\ignorespaces Confusion Matrix for SVC-Travel \relax }}{8}
+\contentsline {figure}{\numberline {5}{\ignorespaces Confusion Matrix for CNN-Travel \relax }}{9}
+\contentsline {figure}{\numberline {6}{\ignorespaces Confusion Matrix for ConvLSTM-Travel \relax }}{10}
+\contentsline {figure}{\numberline {7}{\ignorespaces Confusion Matrix for DCNN-Travel\relax }}{11}
+\contentsline {figure}{\numberline {8}{\ignorespaces Confusion Matrix for SVC-AskUbuntu\relax }}{12}
+\contentsline {figure}{\numberline {9}{\ignorespaces Confusion Matrix for CNN-AskUbuntu\relax }}{13}
+\contentsline {figure}{\numberline {10}{\ignorespaces Confusion Matrix for ConvLSTM-AskUbuntu\relax }}{14}
+\contentsline {figure}{\numberline {11}{\ignorespaces Confusion Matrix for DCNN-AskUbuntu\relax }}{15}
+\contentsline {figure}{\numberline {12}{\ignorespaces Confusion Matrix for SVC-HateSpeech\relax }}{16}
+\contentsline {figure}{\numberline {13}{\ignorespaces Confusion Matrix for CNN-HateSpeech\relax }}{17}
+\contentsline {figure}{\numberline {14}{\ignorespaces Confusion Matrix for ConvLSTM-HateSpeech\relax }}{18}
+\contentsline {figure}{\numberline {15}{\ignorespaces Confusion Matrix for DCNN-HateSpeech\relax }}{19}
+\contentsline {figure}{\numberline {16}{\ignorespaces Confusion Matrix for SVC-WebAppCorpus\relax }}{20}
+\contentsline {figure}{\numberline {17}{\ignorespaces Confusion Matrix for CNN-WebAppCorpus\relax }}{21}
+\contentsline {figure}{\numberline {18}{\ignorespaces Confusion Matrix for ConvLSTM-WebAppCorpus\relax }}{22}
+\contentsline {figure}{\numberline {19}{\ignorespaces Confusion Matrix for DCNN-WebAppCorpus\relax }}{23}

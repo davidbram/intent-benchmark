@@ -1,0 +1,31 @@
+\begin{thebibliography}{1}
+
+\bibitem{braun-EtAl:2017:SIGDIAL}
+Daniel Braun, Adrian Hernandez-Mendez, Florian Matthes, and Manfred Langen.
+\newblock Evaluating natural language understanding services for conversational
+  question answering systems.
+\newblock In {\em Proceedings of the 18th Annual SIGdial Meeting on Discourse
+  and Dialogue}, pages 174--185, Saarbrücken, Germany, August 2017. Association
+  for Computational Linguistics.
+
+\bibitem{Mikolov1}
+Tomas Mikolov, Kai Chen, Greg Corrado, and Jeffrey Dean.
+\newblock Efficient estimation of word representations in vector space.
+\newblock {\em CoRR}, abs/1301.3781, 2013.
+
+\bibitem{Mikolov2}
+Tomas Mikolov, Ilya Sutskever, Kai Chen, Greg~S Corrado, and Jeff Dean.
+\newblock Distributed representations of words and phrases and their
+  compositionality.
+\newblock In C.~J.~C. Burges, L.~Bottou, M.~Welling, Z.~Ghahramani, and K.~Q.
+  Weinberger, editors, {\em Advances in Neural Information Processing Systems
+  26}, pages 3111--3119. Curran Associates, Inc., 2013.
+
+\bibitem{gensim}
+Radim {\v R}eh{\r u}{\v r}ek and Petr Sojka.
+\newblock {Software Framework for Topic Modelling with Large Corpora}.
+\newblock In {\em {Proceedings of the LREC 2010 Workshop on New Challenges for
+  NLP Frameworks}}, pages 45--50, Valletta, Malta, May 2010. ELRA.
+\newblock \url{http://is.muni.cz/publication/884893/en}.
+
+\end{thebibliography}
